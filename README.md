@@ -1,7 +1,8 @@
-List of Toot Café blocked instances
+List of Tooot.im blocked instances
 =======
+(Note: This file was cloned from the [corresponding tootcafe page](https://github.com/tootcafe/blocked-instances). Changes are mainly to the list itself).
 
-This is a list of Mastodon/GNU Social instances blocked by [toot.cafe](https://toot.cafe). If you think an instance has been unfairly blocked, please open an issue and/or a pull request.
+This is a list of Mastodon/GNU Social instances blocked by [tooot.im](https://tooot.im). If you think an instance has been unfairly blocked, please open an issue and/or a pull request.
 
 The purpose of this is to be transparent and to collaborate with other admins on identifying those instances that violate the commonly-accepted Code of Conduct in the Mastodon community based on [the example set by mastodon.social](https://mastodon.social/about/more), or those that tend to contain bad actors who do, and who boost unwanted content into other instances.
 
@@ -10,18 +11,8 @@ Blocked instances
 
 | Instance | Status\* | Reason |
 | ---- | ---- | ---- |
-| rainbowdash.net | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
-| shitposter.club | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
-| freezepeach.xyz | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
-| social.heldscal.la | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
-| woofer.alfter.us | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
-| social.au2pb.net | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
-| gorf.club | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
-| sealion.club | silenced | Advice of toot.cat/cybre.space admins, GNUSocial apparent free speech zone\*\* |
-| gs.smuglo.li | suspended | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\*, lolicon\*\*\* |
-| unsafe.space | silenced | Advice of toot.cat admin, GNUSocial apparent free speech zone\*\* |
 | pawoo.net | suspended | lolicon\*\*\* |
-| wrongthink.net | silenced | GNUSocial apparent free speech zone\*\* |
+| noagendasocial.com | suspended | Organized harassment |
 
 ### Footnotes
 
