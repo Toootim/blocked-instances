@@ -24,7 +24,7 @@ Notes on our instance
 
 - We don't accept hate speech.
 - We don't accept harassment.
-- We don't accept violent nationalism or National Socialism.
+- We don't accept violent nationalism, National Socialism, or Kahanism.
 
 References
 ----
