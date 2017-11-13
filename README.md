@@ -11,8 +11,11 @@ Blocked instances
 
 | Instance | Status\* | Reason |
 | ---- | ---- | ---- |
-| pawoo.net | suspended | lolicon\*\* |
+| pawoo.net | silenced | lolicon\*\* |
 | noagendasocial.com | suspended | Organized harassment |
+| social.targaryen.house | silenced | |
+| jabb.in	| silenced | |
+| toot.love | silenced | Safe space for Nazis and other broflakes |
 
 ### Footnotes
 
